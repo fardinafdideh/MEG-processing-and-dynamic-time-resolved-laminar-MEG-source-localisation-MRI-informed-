@@ -1,14 +1,16 @@
 # Information intra-layer flow in the brain: MEG processing and dynamic (time-resolved) laminar MEG source localisation (MRI-informed)
-## Dynamic (time-resolved) MEG processing
+The developed toolbox is based on [pipelines-ilcb](https://github.com/brovelli/pipelines-ilcb) project.
+
+## Dynamic (time-resolved) *MEG processing*
 ![](ppt/meg-sensor-space.gif)
 
-## Dynamic (time-resolved) MEG source localisation (MRI-informed) on the **white matter**
+## Dynamic (time-resolved) MEG source localisation (MRI-informed) on the *white matter*
 ![](ppt/white-layer-source-space.gif)
 
-## Dynamic (time-resolved) MEG source localisation (MRI-informed) on the **in-between**
+## Dynamic (time-resolved) MEG source localisation (MRI-informed) on the *in-between*
 ![](ppt/in-between-layer-source-space.gif)
 
-## Dynamic (time-resolved) MEG source localisation (MRI-informed) on the **Pial**
+## Dynamic (time-resolved) MEG source localisation (MRI-informed) on the *Pial*
 ![](ppt/pial-layer-source-space.gif)
 
 # How to cite
