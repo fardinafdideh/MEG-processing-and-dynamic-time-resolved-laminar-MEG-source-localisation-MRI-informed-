@@ -1,4 +1,4 @@
-# MEG processing and dynamic (time-resolved) laminar MEG source localisation (MRI-informed)
+# Information intra-layer flow in the brain: MEG processing and dynamic (time-resolved) laminar MEG source localisation (MRI-informed)
 ## Dynamic (time-resolved) MEG processing
 ![](ppt/meg-sensor-space.gif)
 
@@ -12,4 +12,4 @@
 ![](ppt/pial-layer-source-space.gif)
 
 # How to cite
-* F. Afdideh, et al., "Information intra-layer flow in the brain", to be published.
+* F. Afdideh, et al., "Information intra-layer flow in the brain: MEG processing and dynamic (time-resolved) laminar MEG source localisation (MRI-informed)", to be published.
