@@ -1,10 +1,12 @@
-# Tracking Information Flow in Dynamic Communication in the Brain Networks: Optimal Localization of the Brain Sources and Developing Functional Connectivity Approaches using MEG
+# Tracking Information Flow in Dynamic Communication in the Brain Networks: Optimal Localization of the Brain Sources ~~and Developing Functional Connectivity Approaches~~ using MEG
 
 ## Cortical (White matter, in-between, Pial) Dynamics Reconstructed using MEG
 ![](ppt/whiteInbetweenPial-layer-source-space.gif)
+
 ## Developed Toolbox for Manually Selecting Spatial Priors in Source Reconstruction
 ![](ppt/spatialPriorManualSelection.gif)
 
+## Tracking Information Flow in Dynamic Communication in the Brain Networks
 ![](ppt/Diapositive1.PNG)
 ![](ppt/Diapositive2.PNG)
 ![](ppt/Diapositive3.PNG)
