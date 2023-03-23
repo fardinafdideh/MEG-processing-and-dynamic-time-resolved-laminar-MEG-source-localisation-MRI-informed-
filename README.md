@@ -3,7 +3,7 @@
 ## Cortical (White matter, in-between, Pial) Dynamics Reconstructed using MEG (Developed Toolbox Forking from [pipelines-ilcb](https://github.com/brovelli/pipelines-ilcb))
 ![](ppt/whiteInbetweenPial-layer-source-space.gif)
 
-## Developed Toolbox for Manually Selecting Multiple Spatial Priors in the Source Reconstruction Problem
+## Developed Toolbox for Manually Selecting Multiple Spatial Priors, with Source Locations Shown in Black Dots and fMRI Activation in Yellow Cortex, in the Source Reconstruction Problem (Parametric Empirical Bayesian Framework using SPM)
 ![](ppt/spatialPriorManualSelection.gif)
 
 ## Tracking Information Flow in Dynamic Communication in the Brain Networks
