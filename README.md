@@ -1,6 +1,6 @@
 # Tracking Information Flow in Dynamic Communication in the Brain Networks: Optimal Localization of the Brain Sources ~~and Developing Functional Connectivity Approaches~~ using MEG
 
-## Cortical (White matter, in-between, Pial) Dynamics Reconstructed using MEG (Developed Toolbox Forked from [pipelines-ilcb](https://github.com/brovelli/pipelines-ilcb))
+## Cortical (White matter, in-between, Pial) Dynamics Reconstructed using MEG (The Developed Toolbox Was Adapted from [pipelines-ilcb](https://github.com/brovelli/pipelines-ilcb))
 ![](ppt/whiteInbetweenPial-layer-source-space.gif)
 
 ## Developed Toolbox for Manually Selecting Multiple Spatial Priors, with Source Locations Shown in Black Dots and fMRI Activation in Yellow Cortex, in the Source Reconstruction Problem (Parametric Empirical Bayesian Framework using SPM)
